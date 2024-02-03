@@ -23,10 +23,10 @@ Before you begin, ensure you have the following installed:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/SivaJegadeesh/MERN-Authentication-App
+   git clone https://github.com/SivaJegadeesh/MERN-BLOG-APP
 2. Navigate to the project directory:
    ```bash
-   cd MERN-Authentication-App
+   cd MERN-BLOG-APP
 3. Navigate to client and server to start
    ```bash
    cd client
